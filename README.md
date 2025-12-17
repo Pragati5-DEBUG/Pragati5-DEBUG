@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Blockchain+Developer+%7C+Crypto+Enthusiast;Rust+%7C+Solidity+%7C+JavaScript;Building+the+Future+of+Web3" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <i>This is my second profile where I just experiment 🧪</i>
+</div>
+
 ---
 
 ### 👨‍💻 About Me
@@ -57,18 +61,6 @@ struct Developer {
 ---
 
 ---
-
-### 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragati5-DEBUG&theme=dracula&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/Pragati5-DEBUG" target="_blank">
-    <img src="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/dist/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-  </a>
-</div>
 
 ---
 
