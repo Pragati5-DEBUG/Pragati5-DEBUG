@@ -7,10 +7,7 @@
 </div>
 
 <div align="center">
-  <video width="600" controls>
-    <source src="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/main/video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="animation.gif" alt="Animation" width="600" />
 </div>
 
 ---
