@@ -65,11 +65,7 @@ struct Developer {
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/output/snake.svg">
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/output/snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/output/snake.svg" alt="Snake eating my contributions" />
 </div>
 
 ---
