@@ -65,7 +65,9 @@ struct Developer {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/output/snake.svg" alt="Snake eating my contributions" />
+  <a href="https://github.com/Pragati5-DEBUG" target="_blank">
+    <img src="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/output/snake.svg" alt="Snake eating my contributions" />
+  </a>
 </div>
 
 ---
