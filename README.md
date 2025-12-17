@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="./animation.gif" alt="Animation" width="600" />
+  <img src="https://github.com/Pragati5-DEBUG/Pragati5-DEBUG/blob/main/animation.gif?raw=true" alt="Animation" width="600" />
 </div>
 
 ---
