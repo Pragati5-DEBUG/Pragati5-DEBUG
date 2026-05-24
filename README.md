@@ -10,6 +10,16 @@
   <img src="https://github.com/Pragati5-DEBUG/Pragati5-DEBUG/blob/main/animation.gif?raw=true" alt="Animation" width="600" />
 </div>
 
+<div align="center">
+  <a href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LFC102-Inclusive%20Open%20Source%20Community%20Orientation-009CDE?style=for-the-badge&logo=linux&logoColor=white" alt="LFC102 — Inclusive Open Source Community Orientation" />
+  </a>
+  <br />
+  <a href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/The%20Linux%20Foundation-Open%20Source%20Best%20Practice-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="The Linux Foundation — Open Source Best Practice" />
+  </a>
+</div>
+
 ---
 
 ### 👨‍💻 About Me
@@ -37,9 +47,20 @@ struct Developer {
 
 <div align="center">
   <a href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/lfc102.png" alt="LFC102 — Inclusive Open Source Community Orientation (The Linux Foundation)" width="320" />
+    <img src="https://img.shields.io/badge/LFC102-Inclusive%20Open%20Source%20Community%20Orientation-009CDE?style=for-the-badge&logo=linux&logoColor=white" alt="LFC102 badge" />
+  </a>
+  <a href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/The%20Linux%20Foundation-Education-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Foundation Education badge" />
   </a>
 </div>
+
+<details>
+  <summary>View official certificate badge</summary>
+  <br />
+  <a href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/lfc102.png" alt="LFC102 — Inclusive Open Source Community Orientation (The Linux Foundation)" width="280" />
+  </a>
+</details>
 
 ---
 
