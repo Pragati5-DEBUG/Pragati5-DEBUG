@@ -29,6 +29,17 @@ struct Developer {
 - 📜 Writing smart contracts in **Solidity**
 - 🌐 Creating web applications with **JavaScript**
 - 💡 Exploring the decentralized future of the internet
+- ✅ Completed **[LFC102 — Inclusive Open Source Community Orientation](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)** (The Linux Foundation)
+
+---
+
+### 🏅 Certifications
+
+<div align="center">
+  <a href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/lfc102.png" alt="LFC102 — Inclusive Open Source Community Orientation (The Linux Foundation)" width="320" />
+  </a>
+</div>
 
 ---
 
