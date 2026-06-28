@@ -3,7 +3,11 @@
 > Hi, I'm **Pragati**.  
 > Open source contributor · Kubernetes · backend & web.
 
-[![GitRoll Profile Badge](https://api.gitroll.com/shields?user=Pragati5-DEBUG)](https://gitroll.com/profile/u/Pragati5-DEBUG)
+<div align="center">
+
+![Goku meditating](https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/main/assets/goku-meditating.gif)
+
+</div>
 
 ## Contribution Graph
 
