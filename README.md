@@ -1,109 +1,53 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Blockchain+Developer+%7C+Crypto+Enthusiast;Rust+%7C+Solidity+%7C+JavaScript;Building+the+Future+of+Web3" alt="Typing SVG" />
-</div>
+# welcome
+
+> Hi, I'm **Pragati**.  
+> Open source contributor · Kubernetes · backend & web.
+
+[![GitRoll Profile Badge](https://api.gitroll.com/shields?user=Pragati5-DEBUG)](https://gitroll.com/profile/u/Pragati5-DEBUG)
+
+## Contribution Graph
+
+<!-- Snake animation — auto-updated by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/main/dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/main/dist/github-contribution-grid-snake-dark.svg">
+</picture>
+
+## GitHub Analytics
 
 <div align="center">
-  <i>This is my second profile where I just experiment 🧪</i>
-</div>
 
-<div align="center">
-  <img src="https://github.com/Pragati5-DEBUG/Pragati5-DEBUG/blob/main/animation.gif?raw=true" alt="Animation" width="600" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pragati5-DEBUG&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<div align="center">
-  <a href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/" target="_blank" rel="noopener noreferrer" title="LFC102 — Inclusive Open Source Community Orientation">
-    <img src="./assets/lfc102.png" alt="LFC102 — The Linux Foundation" height="72" />
-  </a>
-</div>
+[![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pragati5-DEBUG&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati5-DEBUG&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-### 👨‍💻 About Me
-
-```rust
-struct Developer {
-    name: "Pragati",
-    interests: ["Crypto", "Blockchain", "Web3"],
-    languages: ["Rust", "Solidity", "JavaScript"],
-    focus: "Building decentralized applications",
-    status: "Always learning 🚀"
-}
-```
-
-- 🔐 Passionate about **cryptocurrency** and **blockchain technology**
-- 🦀 Building secure and efficient systems with **Rust**
-- 📜 Writing smart contracts in **Solidity**
-- 🌐 Creating web applications with **JavaScript**
-- 💡 Exploring the decentralized future of the internet
-- ✅ Completed **[LFC102 — Inclusive Open Source Community Orientation](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)** (The Linux Foundation)
-
----
-
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo" title="Rust" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="50" alt="solidity logo" title="Solidity" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" title="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" title="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ethereum" height="50" alt="ethereum logo" title="Ethereum" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=web3" height="50" alt="web3 logo" title="Web3" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" title="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" title="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" title="Linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" title="Docker" />
 </div>
 
 ---
 
----
+## About Me
+
+I'm a developer contributing to open source in the **Kubernetes / cloud-native** space — backend (Go), frontend (TypeScript/React), and tooling around clusters and observability.
+
+- 🔧 Contributing to **[Headlamp](https://github.com/kubernetes-sigs/headlamp)** (k8cache, backend)
+- 🌋 **[Volcano](https://github.com/volcano-sh)** dashboard & Headlamp plugin work
+- ✅ **[LFC102 — Inclusive Open Source Community Orientation](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)** (Linux Foundation)
+
+> Fun fact: This is my experimental profile — I ship OSS PRs here and keep learning new stacks.
+
+## Where to find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Pragati5--DEBUG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pragati5-DEBUG)
+
+## Tech Stack & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=go,kubernetes,docker,linux,bash,js,ts,react,nodejs,git,github,vscode,postman,md)](https://skillicons.dev)
 
 ---
 
-### 💼 What I'm Working On
+###### Thanks for visiting
 
-- 🔐 Smart contract development and security auditing
-- 🦀 High-performance blockchain infrastructure in Rust
-- 🌐 Web3 dApps and DeFi protocols
-- 📚 Learning advanced cryptographic concepts
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-  <a href="https://x.com/pragativ005" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/Pragati5-DEBUG" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pragati5-DEBUG&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+the+future+together+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Pragati5-DEBUG&color=blueviolet&style=flat-square)
