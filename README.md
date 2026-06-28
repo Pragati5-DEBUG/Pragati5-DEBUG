@@ -7,24 +7,20 @@
 
 ## Contribution Graph
 
-<!-- Snake animation — auto-updated by .github/workflows/snake.yml -->
+<!-- Galaga — auto-updated by .github/workflows/pacman.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/main/dist/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/output/galaga-contribution-graph.svg">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Pragati5-DEBUG/Pragati5-DEBUG/output/galaga-contribution-graph-dark.svg">
 </picture>
 
 ## GitHub Analytics
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pragati5-DEBUG&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pragati5-DEBUG&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati5-DEBUG&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragati5-DEBUG&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragati5-DEBUG&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragati5-DEBUG&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragati5-DEBUG&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pragati5-DEBUG&theme=dark&utcOffset=5.5)
 
 ---
 
