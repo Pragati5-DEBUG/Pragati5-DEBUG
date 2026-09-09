@@ -1,7 +1,7 @@
-# welcome
+# Welcome
 
 > Hi, I'm **Pragati**.  
-> Open source contributor · Kubernetes · backend & web.
+> Moody , Floaty , Fire , Desire
 
 <div align="center">
 
