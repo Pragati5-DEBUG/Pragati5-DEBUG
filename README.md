@@ -63,16 +63,6 @@ I learn best by shipping real PRs: reading codebases, taking review feedback, an
 
 ---
 
-## GitHub analytics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pragati5-DEBUG&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pragati5-DEBUG&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pragati5-DEBUG&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pragati5-DEBUG&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pragati5-DEBUG&theme=dark&utcOffset=5.5)
-
----
-
 ## Learning
 
 - [LFC102 — Inclusive Open Source Community Orientation](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/) (Linux Foundation)
