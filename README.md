@@ -1,5 +1,4 @@
-# Hi, Mera Naam Pragati h,
-### oh shit formal.
+
 
 **Open source contributor · Kubernetes · Headlamp · Velero**
 
